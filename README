@@ -1,3 +1,2 @@
-# This data is a fire detection data set, which has been marked with coordinates and stored in VOC format.
-
-# image num: 2059, xml num: 2059
+This data is a fire detection data set, which has been marked with coordinates and stored in VOC format.
+image num: 2059, xml num: 2059
